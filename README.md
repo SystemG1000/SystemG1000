@@ -6,7 +6,7 @@ I'm trying to be good :)
 Nome: Gustavo Alfredo <br>
 Idade: 21 <br>
 Endereço: João Pessoa(PB) <br>
-Universidade: Descomplica UniAmérica (em andamento / 3º Período) <br>
+Universidade: Descomplica UniAmérica (em andamento / 4º Período) <br>
 
 ## Ferramentas e Tecnologias   
 <div align="center">
